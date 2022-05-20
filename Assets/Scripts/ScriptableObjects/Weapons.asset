@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b219630482e031448a34035d82f3dad, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  cubeSettings:
+  - <weapon>k__BackingField: 0
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 1
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 2
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 3
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 4
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 5
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 6
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 7
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 8
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 9
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 10
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 11
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 12
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 13
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 14
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 15
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 16
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 17
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 18
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 19
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 20
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 21
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 22
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 23
+    <WeaponObject>k__BackingField: {fileID: 0}
+  - <weapon>k__BackingField: 24
+    <WeaponObject>k__BackingField: {fileID: 0}

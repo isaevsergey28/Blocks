@@ -1,0 +1,33 @@
+framework module FBBiddingKit {
+    umbrella header "FBBiddingKit.h"
+
+    export *
+    module * {
+        export *
+    }
+
+    requires objc, blocks
+
+    link framework "Foundation"
+    link framework "UIKit"
+    link framework "AdSupport"
+
+    header "FBBKABAuction.h"
+    header "FBBKABAuctionImpl.h"
+    header "FBBKABTest.h"
+    header "FBBKABTestSegment.h"
+    header "FBBKAppLovinBidder.h"
+    header "FBBKAppLovinBidderParameters.h"
+    header "FBBKAuction.h"
+    header "FBBKAuctionImpl.h"
+    header "FBBKBid.h"
+    header "FBBKBidder.h"
+    header "FBBKBiddingKit.h"
+    header "FBBKConfiguration.h"
+    header "FBBKFacebookBidder.h"
+    header "FBBKFacebookBidderParameters.h"
+    header "FBBKTapjoyBidder.h"
+    header "FBBKTapjoyBidderParameters.h"
+    header "FBBKWaterfall.h"
+    header "FBBKWaterfallEntry.h"
+}

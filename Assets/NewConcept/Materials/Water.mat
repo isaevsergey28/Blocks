@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: 0fc6fe3cbeb58fb46822b6e42cbede4c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DistTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTex:
+        m_Texture: {fileID: 2800000, guid: 2a2d71ee416d3c844adfa1a053ea32f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BorderWidth: 0
+    - _DepthDistance: 3
+    - _FoamSmooth: 0.18
+    - _FoamSpread: 0.01
+    - _FoamStrength: 0.81
+    - _RampSmooth: 0.262
+    - _RampThreshold: 0
+    - _RimMax: 0.277
+    - _RimMin: 0
+    - _TextureVisibility: 1
+    - _UVWaveAmplitude: 0.01
+    - _UVWaveFrequency: 0.1
+    - _UVWaveSpeed: 0.1
+    - _WaterDeep: 0
+    - _WaterDepth: 0
+    - _WaterHeight: 0
+    - _WaterMinAlpha: 0
+    - _WaveFrequency: 1
+    - _WaveHeight: 0.1
+    - _WaveSpeed: 2
+    - __dummy__: 0
+    m_Colors:
+    - _BorderColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.22075468, g: 0.99030006, b: 1, a: 1}
+    - _DepthColor: {r: 0.7018868, g: 0.8156405, b: 1, a: 1}
+    - _DistTiling: {r: 1, g: 1, b: 1, a: 1}
+    - _FoamColor: {r: 0.007843138, g: 0.65882355, b: 0.9490197, a: 1}
+    - _FoamSpeed: {r: 0.1, g: 0.1, b: 0.1, a: 0.1}
+    - _HColor: {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 1}
+    - _MoveDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}
+    - _SColor: {r: 0.29803923, g: 0.29803923, b: 0.29803923, a: 1}
+    - _Tiling: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

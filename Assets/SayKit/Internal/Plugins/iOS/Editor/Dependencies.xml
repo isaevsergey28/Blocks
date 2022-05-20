@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <iosPods>
+        <iosPod name="AppLovinMediationAdColonyAdapter" version="4.6.1.0.2"/>
+        <iosPod name="AppLovinMediationFacebookAdapter" version="6.5.1.0"/>
+        <iosPod name="AppLovinMediationFyberAdapter" version="7.8.3.2"/>
+
+        <iosPod name="AppLovinMediationGoogleAdapter" version="8.8.0.1"/>
+        <iosPod name="AppLovinMediationInMobiAdapter" version="9.1.7.0"/>
+        <iosPod name="AppLovinMediationByteDanceAdapter" version="3.7.0.7.0"/>
+        <iosPod name="AppLovinMediationIronSourceAdapter" version="7.1.6.1.0"/>
+
+        <iosPod name="AppLovinMediationUnityAdsAdapter" version="3.7.5.0"/>
+        <iosPod name="AppLovinMediationVungleAdapter" version="6.9.2.1"/>
+
+        <iosPod name="AppLovinMediationYandexAdapter" version="4.3.0.0"/>
+        <iosPod name="AppLovinMediationMyTargetAdapter" version="5.12.0.1"/>
+        <iosPod name="AppLovinMediationMintegralAdapter" version="6.9.4.0.0"/>  
+        <!-- <iosPod name="AppLovinMediationOguryPresageAdapter" version="6.14.10"/> -->
+
+        <iosPod name="AppLovinSDK" version="10.3.4"/>
+        <iosPod name="FBSDKCoreKit" version="11.1.0"/>
+
+        <iosPod name="Firebase/Analytics" version="8.4.0"/>
+        <iosPod name="Firebase/Crashlytics" version="8.4.0"/>
+
+<!-- 
+        <sources>
+            <source>https://bitbucket.org/saygames/cocoapods-specs.git</source>
+        </sources>
+
+        <iosPod name="saypromo" version="9.0.7"/>
+        <iosPod name="SayMed" version="1.0.0"/>
+        <iosPod name="SayKitInternal" version="1.0.0"/> --> 
+        
+    </iosPods>
+</dependencies>

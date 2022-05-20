@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: skad_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 456755a71988641af84cb23de0f799dd, type: 3}
+    totalSpriteSurfaceArea: 1532598
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cdd6f860a7223425a9c46541a8c40a70, type: 3}
+  - {fileID: 21300000, guid: bc9e08a0a6550437383282f8ae70ad28, type: 3}
+  - {fileID: 21300000, guid: 033a6e516ff9f47dbb57e04a376453c5, type: 3}
+  - {fileID: 21300000, guid: 557af6924546a47dfb09b34b71395bc8, type: 3}
+  - {fileID: 21300000, guid: 8a236653cc1394803a5144c19188f375, type: 3}
+  - {fileID: 21300000, guid: 4c9ab8735ab3944368460a87ea680ce9, type: 3}
+  - {fileID: 21300000, guid: 753dd9547efed4c5eaf4c5f99fe98865, type: 3}
+  - {fileID: 21300000, guid: 22636435eb99f47dca97d7ad98720cc4, type: 3}
+  - {fileID: 21300000, guid: 52bc1f758abc946a19435cfe09038caf, type: 3}
+  - {fileID: 21300000, guid: 28b14f27dadcf4042b340c92567e3527, type: 3}
+  - {fileID: 21300000, guid: c47abcf783c6741bd85086ee8e0df108, type: 3}
+  - {fileID: 21300000, guid: 6a0cb9681893244eb8421c703e5ed571, type: 3}
+  - {fileID: 21300000, guid: 1a79c978c745149298e50bacead046ea, type: 3}
+  - {fileID: 21300000, guid: adb3c859272744b5592d127170237163, type: 3}
+  - {fileID: 21300000, guid: 86b64d79eee14448eb7a2971fa6d8411, type: 3}
+  - {fileID: 21300000, guid: 615b0089606c14796b47978f97301aaf, type: 3}
+  - {fileID: 21300000, guid: 4694d98ae66a649fa8582c22ffc0b73e, type: 3}
+  - {fileID: 21300000, guid: 9f3a159a323a94bcba8afd8ef82c5c5c, type: 3}
+  - {fileID: 21300000, guid: 2cbeaf9a6ccf84298b22a056579e48a1, type: 3}
+  - {fileID: 21300000, guid: 7d5ce9aa7313e45d283844ae7fbe290a, type: 3}
+  - {fileID: 21300000, guid: 520f497b6d7424c8bb69f1228b2fab22, type: 3}
+  - {fileID: 21300000, guid: 6bdc6d0c11c2e4e748bce05c2e9fed99, type: 3}
+  - {fileID: 21300000, guid: 3e76b63dc706046588aac502285d9bcd, type: 3}
+  - {fileID: 21300000, guid: 90e5004d50bb84568bfddf8981cf91d9, type: 3}
+  - {fileID: 21300000, guid: b745228d498c94b5fa5345b54dada7f1, type: 3}
+  - {fileID: 21300000, guid: 24d3aafd0e3074549872abf27ba43ebb, type: 3}
+  - {fileID: 21300000, guid: b5e0c96e4ee8f430eb947708fd227fcc, type: 3}
+  - {fileID: 21300000, guid: ca8f3a8e1ddf344ed882d5882a665a73, type: 3}
+  - {fileID: 21300000, guid: 3f7e1c4fe820e4e218f2889417afc196, type: 3}
+  - {fileID: 21300000, guid: 5caf025fb70b34e82814013fba0ceac4, type: 3}
+  - {fileID: 21300000, guid: 40bbd47f34ce74297b9d0400622651f9, type: 3}
+  - {fileID: 21300000, guid: 4862618fcb5af44fb84db8a05730ae83, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - skad_idfa_71_img_shoulder_l
+  - skad_idfa_71_img_boy_body
+  - skad_idfa_21_btn
+  - skad_idfa_71_img_glasses
+  - skad_idfa_71_img_phone
+  - skad_idfa_71_img_line
+  - skad_idfa_71_img_play_red
+  - skad_idfa_71_img_play_blue
+  - skad_idfa_71_img_wing
+  - skad_idfa_71_img_hand_r
+  - skad_idfa_71_btn
+  - skad_idfa_71_img_vac
+  - skad_idfa_71_img_ear_r
+  - skad_idfa_71_img_play_green
+  - skad_idfa_71_img_boy_br_l
+  - skad_idfa_61_img
+  - skad_idfa_71_img_hand
+  - skad_idfa_71_btn_close
+  - skad_idfa_71_img_fingers
+  - skad_idfa_71_img_watch
+  - skad_idfa_71_img_pupil_l
+  - skad_idfa_71_img_hair
+  - skad_idfa_71_img_hand_l
+  - skad_idfa_71_img_head
+  - skad_idfa_71_img_nose
+  - skad_idfa_71_img_br_r
+  - skad_idfa_71_img_arrow
+  - skad_idfa_71_info_img
+  - skad_idfa_71_img_mouth
+  - skad_idfa_71_img_ear_l
+  - skad_idfa_71_img_shoulder_r
+  - skad_idfa_71_img_thumb
+  m_Tag: skad_atlas
+  m_IsVariant: 0

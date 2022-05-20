@@ -1,0 +1,3 @@
+lane :upload do
+  upload_symbols_to_crashlytics(gsp_path: "./GoogleService-Info.plist")
+end

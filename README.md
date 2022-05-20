@@ -1,1 +1,1 @@
-# BlockCrafter
+# hypercasual-template

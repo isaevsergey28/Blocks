@@ -1,0 +1,6 @@
+{
+    "fastfile": "Assets/SayKit/UnityCloudBuild/fastfile_firebase_upload_symbols",
+    "lanes": {
+        "post_build": "upload"
+    }
+}

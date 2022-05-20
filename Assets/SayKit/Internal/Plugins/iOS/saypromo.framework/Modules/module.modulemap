@@ -1,0 +1,6 @@
+framework module saypromo {
+  umbrella header "saypromo.h"
+
+  export *
+  module * { export * }
+}
